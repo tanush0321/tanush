@@ -4,7 +4,7 @@ this is my vityarthi project code and screenshots which are attached with my git
 project name is School Fee CRUD Manager
 this School Fee CRUD Manager allows administrators to edit,update,add or delete any students name details and more for college admission purpose or for college tution and hostel fees purpose
 in my code of School Fee CRUD Manager there is add,update,delete,edit student name reg no. and payment all these options are there in my code.
-the only thing i do all these things in my code is by using looping sysytem and conditional statements there is no use of def function and any other function majorly
+the only thing i do all these things in my code is by using looping sysytem and conditional statements there is use of def function and any other function majorly
 it is very user friendly understandable code which is easy to understand.
 
 for this code first i import json and os for saving the files from code
@@ -17,4 +17,4 @@ python will ask the reg number,name,grade and fees of that student to add in ser
 
 and to save files i initialize opps concept of save and read the date in file after every block of code which is there in menu of my CRUD sysytem
 
-there are total 7 things in menu in my CRUD system which all are followed by conditional statemnts inside while loop.
+there are total 7 things in menu in my CRUD system which all are followed by conditional statemnts inside while loop and def function for every block of code.
