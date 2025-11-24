@@ -15,8 +15,6 @@ like if elif and else statements.
 for each code like to add a student i used if elif and else commands to operate them so if user chooses 1 option then 
 python will ask the reg number,name,grade and fees of that student to add in server 
 
-and to save files i initialize opps concept of save and read the date in file after every block of code which is there in menu of my CRUD sysytem
-
 there are total 7 things in menu in my CRUD system which all are followed by conditional statemnts inside while loop and def function for every block of code.
 
 Overview of the Project
@@ -95,18 +93,3 @@ You should see:
 5. Pay Fees
 6. Exit
 Enter your choice:
-
-Instructions for Testing
-
-Test Case 1: Adding New Students
-
-Steps:
-1. Run the program
-2. Select option `1` (Add Student)
-3. Enter the following test data:
-    Roll No: 101
-    Name: Alice Johnson
-    Grade: 9th
-    Total Fee: 15000
-    Paid: 5000
-4. Verify "Saved!" message appears
